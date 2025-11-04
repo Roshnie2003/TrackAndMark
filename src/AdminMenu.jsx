@@ -16,7 +16,7 @@ function AdminMenu() {
       {/* Admin Menu */}
       <nav className="bg-white shadow flex items-center justify-between px-6 py-4">
         {/* Brand */}
-        <div className="text-lg font-bold text-blue-600">SAMSTRACK</div>
+        <div className="text-lg font-bold text-blue-600">Track&Mark</div>
         <div className="flex items-center gap-3">
           {/* Dashboard */}
           <a

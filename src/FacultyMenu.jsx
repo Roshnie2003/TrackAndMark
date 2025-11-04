@@ -14,7 +14,7 @@ function FacultyMenu() {
   return (
     <div className="bg-gray-50">
       <nav className="bg-white shadow flex items-center justify-between px-6 py-4">
-        <div className="text-lg font-bold text-blue-600">SAMSTRACK</div>
+        <div className="text-lg font-bold text-blue-600">Track&Mark</div>
 
         <div className="flex items-center gap-6">
           {/* Dashboard */}

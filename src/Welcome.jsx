@@ -28,7 +28,7 @@ const Welcome = () => {
     <div className="min-h-screen bg-gray-50 flex flex-col">
       {/* Header */}
       <header className="w-full bg-white shadow flex items-center justify-between px-6 py-4">
-        <h1 className="text-2xl font-bold text-blue-600">SAMSTRACK</h1>
+        <h1 className="text-2xl font-bold text-blue-600">Track&Mark</h1>
         <a href="/login" className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition">Login</a>
       </header>
 
